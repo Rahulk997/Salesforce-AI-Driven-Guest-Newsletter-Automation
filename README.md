@@ -69,21 +69,6 @@ Replace placeholders with dynamic merge fields from Reservation and Experience d
 
 ---
 
-## Project Structure
-```
-/Project-Resort-Newsletter
-├── README.md
-├── Salesforce-Prompt-Template
-│   ├── PromptTemplateSetup.txt
-│   ├── MergeFieldsSetup.txt
-├── Salesforce-Flows
-│   ├── TemplateTriggeredFlowSetup.txt
-├── TestData
-│   ├── Experiences.json
-│   ├── Reservations.json
-```
-
----
 
 ## Key Takeaways
 - Leveraged **AI and Salesforce automation** for personalized guest communication.
@@ -92,13 +77,5 @@ Replace placeholders with dynamic merge fields from Reservation and Experience d
 
 ---
 
-## Future Enhancements
-- Extend templates to include promotional offers and weather updates.
-- Integrate with **Salesforce Marketing Cloud** for broader outreach.
-- Add **sentiment analysis** to tailor content further based on guest preferences.
 
----
-
-## Contact
-For more details, reach out to me via LinkedIn or GitHub. Let’s connect and discuss ideas on **AI-driven automation** and **Salesforce solutions**!
 
